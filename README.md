@@ -38,6 +38,7 @@ This project is a Django-based web application that allows users to upload video
 4. **Install ccextractor binary**:
    - Note: It is highly recommended build ccextractor from source, You can Follow the **[Compilation Instructions](https://github.com/CCExtractor/ccextractor/blob/master/docs/COMPILATION.MD)**
    - Note for Arch Users: You can also install ccextractor from AUR using your favourite AUR helper
+
    Follow the Installation guide on **[CCExtractor/ccextractor](https://github.com/CCExtractor/ccextractor)** to install on your operating system.
 
 5. **Set Up Environment Variables**:
